@@ -1,6 +1,6 @@
 ###  Olá, Eu sou o Paulo Otávio 😄 
 <p>
-Cursando em Análise e Desenvolvimento de Sistemas 🎓da Universidade Estácio de Sá. Gosto muito de desenvolvimento web, e sempre estou em busca de melhorias e no aprendizado de novas tecnologias. Me considero bastante curioso e por isso me identifiquei com a área do Front end ✨. Me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronto para conseguir impactar as vidas das pessoas usando a programação!💡
+Cursando em Análise e Desenvolvimento de Sistemas 🎓na Universidade Estácio de Sá. Gosto muito de desenvolvimento web, e sempre estou em busca de melhorias e no aprendizado de novas tecnologias. Me considero bastante curioso e por isso me identifiquei com a área do Front end ✨. Me vejo aprimorando cada vez mais meus conhecimentos técnicos e pronto para conseguir impactar as vidas das pessoas usando a programação!💡
 </p>
 <br>
 <hr>
