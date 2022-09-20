@@ -13,7 +13,7 @@ Me considero bastante curioso e por isso me identifiquei com a área do front-en
 <img width="60" height="60" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <img width="60" height="60" align="center" alt="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
 <img width="60" height="60" align="center" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img width="60" height="60" align="center" alt="BootsTrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+<img width="60" height="60" align="center" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div><br/>
 
 ### Contatos : 
